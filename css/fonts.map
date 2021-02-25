@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "fonts.css",
+	"sources": [
+		"../sass/fonts.sass"
+	],
+	"sourcesContent": [
+		"\n// Google Fonts\n//@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');\n\n// Font Variables\n$headlines: 'Poppins', sans-serif;\n\n// Styles\n\n//  h1, h2, h3, h4, h5, h6 {\n//     font-family: $headlines;\n//  }\n"
+	],
+	"names": [],
+	"mappings": ""
+}
