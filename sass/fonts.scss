@@ -1,16 +1,52 @@
 // Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Ubuntu+Mono&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,400&display=swap');
 
-// Font Variables
-$headLine: 'Poppins', sans-serif;   
-$bodyText: 'Ubuntu', sans-serif;
-$notation: 'Ubuntu Mono', monospace;
+/*** DEFINITIONS ***/
+// Fonts
+$headlineFont: 'Poppins', sans-serif;   
+$bodyFont: 'Ubuntu', sans-serif;
+$notationFont: 'Ubuntu Mono', monospace;
 
- // Styles
+//Sizes & Weights
+$baseFontSize: 15px;
+$baseLineHeight: ($baseFontSize*1.5);
+$baseFontWeight:300;
 
-body {
-  font-family: $bodyText;
+/****************************/
+/*********FIX THIS***********/
+
+
+
+$l: ($baseFontSize*1.25);
+$xl: ($baseFontSize*1.5);
+$xxl: ($baseFontSize*1.75);
+$xxxl: ($baseFontSize*2.25);
+
+/*********FIX THIS***********/
+/****************************/
+
+// Global styles
+html {
+  font-family: $bodyFont;
+  font-size: $baseFontSize;
+  font-weight: $baseFontWeight;
+  line-height: 2.5em;
 }
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: $headLine;
+  font-family: $headlineFont;
+  font-weight: ($baseFontWeight+100);
+}
+
+code {
+  font-family: $notationFont;
+}
+
+// Customized
+.headlineLead {
+  color: $oxfordBlue;
+  font-size: $xxxl;
+}
+.bodyTextLead {
+  font-size: $xl;
 }

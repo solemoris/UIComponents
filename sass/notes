@@ -1,0 +1,60 @@
+/* Color styles */
+--calyptia---medium--blue: #3300BF;
+--calyptia---bluetiful: #0049E9;
+--calyptia---dodger--blue: #0199FF;
+--calyptia---purple--pizzaz: #FF55EC;
+--calyptia---maxim--blue -purple: #B3A9FF;
+--calyptia--- -medium -aquamarine: #2BF497;
+--calyptia---aqua: #3FFFFC;
+--calyptia---semantic-success: #32C280;
+--calyptia---semantic-danger: #F42A4E;
+--calyptia---primary--tones-royal -blue -dark: #032166;
+--calyptia---primary--tones-egyptian -blue: #0633A3;
+--calyptia---primary--tones-bluetiful: #0749E9;
+--calyptia---primary--tones-blue -crayola: #3374FC;
+--calyptia--- -primary -tones  -cornflower -blue: #709DFC;
+--calyptia--- -primary -tones  -baby -blue -eyes: #ADC7FD;
+--calyptia---blue--medium  -active: #7A49FF;
+--calyptia--- -blue -medium  -normal: #3300BF;
+--calyptia--- -blue -medium  -pressed: #3500C8;
+--calyptia--- -blue -medium  -disabled: #CACEF2;
+--neutrals---oxford--blue: #000539;
+--neutrals---space--cadet: #373957;
+--neutrals---purple--navy: #474A75;
+--neutrals---dark--blue -gray: #5C6095;
+--neutrals---rythm: #7376AA;
+--neutrals---blue--belt: #9FA1C8;
+--neutrals---lavender--gray: #C7C8DD;
+--neutrals--- -almost -white: #E8E8F0;
+--neutrals---whity--white: #F6F6F6;
+--neutrals---white: #FFFFFF;
+--utilities--- -margin: #67E3AA;
+--utilities--- -gutter: #08B4E5;
+--utilities--- -column: #EC82C1;
+-----utilities- -gray: #C4C4C4;
+--others--- -google: #34A853;
+--others--- -google: #4285F4;
+--others--- -google: #EA4335;
+--others--- -google: #FBBC04;
+
+/* Text-size styles */
+--helper--text: 13px;
+--title--nav -normal: 16px;
+--eyebrow: 12px;
+--links: 16px;
+--body: 15px;
+--headline-1: 28px;
+--h: 18px;
+--avatar: 18px;
+--lists: 14px;
+--menu--option: 17px;
+--utilities--- -headline: 28px;
+--utilities---description: 14px;
+--utilities--- -specs: 14px;
+--calyptia--u-i -kit -- -headline -lead: 35px;
+--calyptia--u-i -kit -- -body -lead: 30px;
+--calyptia---disabled: 16px;
+--calyptia--- buttons  cta: 16px;
+
+/* Effect styles */
+--calyptia--- -elevation:  4px 0px 4px rgba(0, 0, 0, 0.25);
